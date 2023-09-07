@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nisha C, a student at VidyaVardhaka College of Engineering.<br><br>👀 I’m interested in reading books, creating web pages, and exploring various aspects of web development.<br><br>🌱 I’m currently learning HTML, CSS, and JavaScript to enhance my web development skills.<br><br>💞️ I’m looking to collaborate on web development projects and gain real-world experience.<br><br>📫 How to reach me: Feel free to reach out to me via email at nishac9632@gmail.com.
+👋 Hi, I’m Nisha C, a Student at VidyaVardhaka College of Engineering.<br><br>👀 I’m interested in reading books, creating web pages, and exploring various aspects of web development.<br><br>🌱 I’m currently learning HTML, CSS, and JavaScript to enhance my web development skills.<br><br>💞️ I’m looking to collaborate on web development projects and gain real-world experience.<br><br>📫 How to reach me: Feel free to reach out to me via email at nishac9632@gmail.com.
 
 
 ## 🌐 Socials:
